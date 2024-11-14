@@ -1,4 +1,4 @@
-# Mi primer relatorio en Power Bi
+# Relatorio en Power Bi
 
 ## Presentación:
 
