@@ -7,4 +7,5 @@ Reporte sobre la obesidad: un enfoque analítico para entender el equilibrio ent
 ## Profesoras:
 
 Adriana Gabriela Lopez Guerra
+
 Sofia Botticini
