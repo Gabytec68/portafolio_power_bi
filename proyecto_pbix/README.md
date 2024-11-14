@@ -11,3 +11,27 @@ A nivel mundial la obesidad se ha duplicado desde 1990. En 2022 más de 2500 mil
 Presentacion del tema y de las integrantes del equipo.
 
 ![alt text](image-1.png)
+
+## Factores determinantes:
+
+Presentamos los factores que tienen una relación directa con la obesidad según nuestros datos, explicando cómo estos elementos afectan la clasificación de obesidad y ayudando a la audiencia a comprender su relevancia desde una perspectiva personal.
+
+![alt text](image-2.png)
+
+## Factores relativos:
+
+Describimos factores adicionales que, aunque no tienen una relación directa con la obesidad, aportan información importante sobre la salud y el comportamiento de la población.
+
+![alt text](image-3.png)
+
+## Implicaciones de consumo:
+
+Exploramos el impacto de los patrones de consumo y su relación con los diferentes tipos de obesidad identificados, brindando una perspectiva integral del problema.
+
+![alt text](image-4.png)
+
+## Conclusión:
+
+Finalizamos con una invitación reflexiva, motivando a los participantes a revisar su salud y sus hábitos de vida para mejorar su bienestar y calidad de vida.
+
+![alt text](image-5.png)
